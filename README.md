@@ -37,6 +37,8 @@ I'm a passionate Software Engineer based in Canada with a strong background in b
 - Laravel and Livewire database-driven website with advanced security.
 - Docker containerization for smooth deployment and scalability.
 - Implemented Git version control for efficient collaboration.
+- Check out the [Quad CRM Project](https://www.algonquincollege.com/applied-research/2022/08/quad-crm-customer-relationship-management/) for more details.
+
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jeel-asalalia-47b798210/)
 📫 jeelasalalia@gmail.com
