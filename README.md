@@ -2,6 +2,8 @@
 
 I'm a passionate Software Engineer based in Canada with a strong background in both frontend and backend development. I love solving problems and creating user-friendly interfaces. Currently, I am working as a Software Engineer at Keyflow. Here's a glimpse of my skills and experiences:
 
+https://myreadme.vercel.app/api/embed/jeel0
+
 ## Skills
 ### Frontend
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
