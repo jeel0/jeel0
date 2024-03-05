@@ -4,11 +4,11 @@ I'm a passionate Software Engineer based in Canada with a strong background in b
 
 ## Skills
 ### Frontend
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-react-3521666-2945110.png?f=webp" alt="React.js" width="30" height="30">
-<img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="30" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="TypeScript" width="30" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="Tailwind CSS" width="30" height="30">
-<img src="https://banner2.cleanpng.com/20190202/ih/kisspng-javascript-logo-clip-art-download-copyright-my-profi-world-web-development-5c5543cbb2e0a4.8864677915490917877327.jpg" alt="JavaScript" width="30" height="30">
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
 
 ### Backend
