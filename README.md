@@ -2,7 +2,7 @@
 
 I'm a passionate Software Engineer based in Canada with a strong background in both frontend and backend development. I love solving problems and creating user-friendly interfaces. Currently, I am working as a Software Engineer at Keyflow. Here's a glimpse of my skills and experiences:
 
-![Skills Chart](https://myreadme.vercel.app/api/embed/jeel0?panels=userstatistics,commitgraph,toplanguages)
+![Skills Chart](https://myreadme.vercel.app/api/embed/jeel0?panels=userstatistics,commitgraph)
 
 ## Skills
 ### Frontend
