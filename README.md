@@ -46,4 +46,4 @@ I'm a passionate Software Engineer based in Canada with a strong background in b
 - Implemented Git version control for efficient collaboration.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jeel-asalalia-47b798210/)
-- 📫 jeelasalalia@gmail.com
+📫 jeelasalalia@gmail.com
