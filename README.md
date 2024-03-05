@@ -24,14 +24,6 @@ I'm a passionate Software Engineer based in Canada with a strong background in b
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-### Soft Skills
-- Continuous Learning
-- Problem-Solving
-- Communication
-- Teamwork
-- Adaptability
-- Time Management
-
 ## Current Role
 
 ### Software Engineer at Keyflow (October 2023 – Present)
