@@ -25,7 +25,7 @@ I'm a passionate Software Engineer based in Canada with a strong background in b
 
 ## Current Role
 
-### Software Engineer at Keyflow (October 2023 – Present)
+### Founding Engineer at Keyflow (October 2023 – Present)
 - Contributed to both frontend and backend development using React, Next.js, and Node.js.
 - Enhanced platform visual appeal with Tailwind CSS and animations.
 - Conducted research initiatives to improve efficiency and capabilities.
